@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Ulisses Kuster Cossi
+# 👋 Olá, eu sou Ulisses
 
 Desenvolvedor de software focado em criar soluções digitais, automações e produtos baseados em tecnologia.
 
